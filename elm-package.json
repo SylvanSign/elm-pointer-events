@@ -1,7 +1,7 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "summary": "Mouse, Touch, Pointer, Wheel and Drag events",
-    "repository": "https://github.com/mpizenberg/elm-pointer-events.git",
+    "repository": "https://github.com/SylvanSign/elm-pointer-events.git",
     "license": "MPL-2.0",
     "source-directories": [
         "src"
